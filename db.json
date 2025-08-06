@@ -1,5 +1,58 @@
 {
+  "news": [
+    {
+      "id": 1,
+      "title": "Real Estate Prices Soar in Dar es Salaam",
+      "content": "Experts say the rise in property prices is due to increased demand and limited urban space.",
+      "date": "2025-08-05"
+    },
+    {
+      "id": 2,
+      "title": "Zanzibar Becomes Hotspot for Luxury Villas",
+      "content": "Tourism and foreign investments are driving a boom in beachfront property developments.",
+      "date": "2025-08-04"
+    },
+    {
+      "id": 3,
+      "title": "New Housing Projects Planned in Arusha",
+      "content": "The government has approved new housing plans to meet the growing population’s demand.",
+      "date": "2025-08-01"
+    }
+    {
+      "id": 4,
+      "title": "Real Estate Sector Gets Tax Incentives",
+      "content": "The Ministry of Finance announced new tax cuts for developers building affordable housing units.",
+      "date": "2025-07-28"
+    },
+    {
+      "id": 5,
+      "title": "Kigamboni Bridge Boosts Property Development",
+      "content": "New access routes have sparked construction booms along the Kigamboni coastline.",
+      "date": "2025-07-25"
+    },
+    {
+      "id": 6,
+      "title": "Eco-Friendly Homes Gaining Popularity in Tanzania",
+      "content": "Green building technologies and sustainable design are attracting buyers focused on the environment.",
+      "date": "2025-07-20"
+    }
+  ],
   "properties": [
+    {
+      "name": "Modern Apartment",
+      "location": "Dar es Salaam",
+      "price": "$350000"
+    },
+    {
+      "name": "Beach Villa",
+      "location": "Zanzibar",
+      "price": "$250000"
+    },
+    {
+      "name": "Townhouse",
+      "location": "Arusha",
+      "price": "$120000"
+    }
     {
       "name": "Ocean View Villa",
       "location": "Zanzibar",
@@ -10,6 +63,20 @@
       "location": "Arusha",
       "price": "$280000"
     }
+    {
+      "name": "City Studio",
+      "location": "Dodoma",
+      "price": "$50000"
+    },
+    {
+      "name": "Luxury Penthouse",
+      "location": "Masaki, Dar es Salaam",
+      "price": "$350000"
+    },
+    {
+      "name": "Eco-Friendly Bungalow",
+      "location": "Morogoro",
+      "price": "$40000"
+    }
   ]
 }
-
