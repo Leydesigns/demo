@@ -17,7 +17,7 @@
       "title": "New Housing Projects Planned in Arusha",
       "content": "The government has approved new housing plans to meet the growing population’s demand.",
       "date": "2025-08-01"
-    }
+    },
     {
       "id": 4,
       "title": "Real Estate Sector Gets Tax Incentives",
@@ -52,7 +52,7 @@
       "name": "Townhouse",
       "location": "Arusha",
       "price": "$120000"
-    }
+    },
     {
       "name": "Ocean View Villa",
       "location": "Zanzibar",
@@ -62,7 +62,7 @@
       "name": "Green Hills Apartment",
       "location": "Arusha",
       "price": "$280000"
-    }
+    },
     {
       "name": "City Studio",
       "location": "Dodoma",
