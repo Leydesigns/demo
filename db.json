@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Modern Apartment",
-      "location": "Dar es Salaam",
+      "location": "Kigamboni,Dar es Salaam",
       "price": "$350000"
     },
     {
@@ -15,7 +15,7 @@
     {
       "id": 3,
       "name": "Townhouse",
-      "location": "Arusha",
+      "location": "Njiro,Arusha",
       "price": "$120000"
     },
     {
@@ -27,13 +27,13 @@
     {
       "id": 5,
       "name": "Green Hills Apartment",
-      "location": "Arusha",
+      "location": "Sakina,Arusha",
       "price": "$280000"
     },
     {
       "id": 6,
       "name": "City Studio",
-      "location": "Dodoma",
+      "location": "Msalato,Dodoma",
       "price": "$50000"
     },
     {
@@ -45,25 +45,25 @@
     {
       "id": 8,
       "name": "Eco-Friendly Bungalow",
-      "location": "Morogoro",
+      "location": "MoroTown,Morogoro",
       "price": "$40000"
     },
     {
       "id": 9,
       "name": "Downtown Condo",
-      "location": "Mwanza",
+      "location": "Nyegezo,Mwanza",
       "price": "$150000"
     },
     {
       "id": 10,
       "name": "Suburban Family Home",
-      "location": "Mbeya",
+      "location": "Uzunguni,Mbeya",
       "price": "$90000"
     },
     {
       "id": 11,
       "name": "Lakefront Cottage",
-      "location": "Moshi",
+      "location": "Moshi,Kilimanjaro",
       "price": "$110000"
     },
     {
@@ -75,19 +75,19 @@
     {
       "id": 13,
       "name": "Urban Loft",
-      "location": "Dar es Salaam",
+      "location": "Buza,Dar es Salaam",
       "price": "$270000"
     },
     {
       "id": 14,
       "name": "Historic Mansion",
-      "location": "Bagamoyo",
+      "location": "Bagamoyo,Pwani",
       "price": "$500000"
     },
     {
       "id": 15,
       "name": "Cozy Studio",
-      "location": "Tanga",
+      "location": "Raskazone,Tanga",
       "price": "$45000"
     }
   ]
